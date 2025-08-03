@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/daliy_planet/static/css/main.f855e6bc.css",
-    "main.js": "/daliy_planet/static/js/main.d7e835b0.js",
+    "main.js": "/daliy_planet/static/js/main.ee4c7341.js",
     "static/js/453.b3f1ae25.chunk.js": "/daliy_planet/static/js/453.b3f1ae25.chunk.js",
     "static/media/loading.gif": "/daliy_planet/static/media/loading.707b79309581ce09ed58.gif",
     "index.html": "/daliy_planet/index.html",
     "main.f855e6bc.css.map": "/daliy_planet/static/css/main.f855e6bc.css.map",
-    "main.d7e835b0.js.map": "/daliy_planet/static/js/main.d7e835b0.js.map",
+    "main.ee4c7341.js.map": "/daliy_planet/static/js/main.ee4c7341.js.map",
     "453.b3f1ae25.chunk.js.map": "/daliy_planet/static/js/453.b3f1ae25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d7e835b0.js"
+    "static/js/main.ee4c7341.js"
   ]
 }
